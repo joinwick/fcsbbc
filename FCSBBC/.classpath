@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/RPC/self_builder/protobuf-java-3.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/SLF4J/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/SLF4J/slf4j-jdk14-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/BeautyEye/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/Ali/aliyun-java-sdk-core-3.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/Ali/aliyun-java-sdk-dysmsapi-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/BouncyCastle/bcprov-ext-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/BouncyCastle/bcprov-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/Database/SQLLite/sqlite-jdbc-3.21.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/SoftWare/Jar/Database/Mysql/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
