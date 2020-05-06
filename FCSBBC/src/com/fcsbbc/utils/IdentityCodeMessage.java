@@ -29,8 +29,8 @@ public class IdentityCodeMessage {
 	private static final String product = "Dysmsapi";				//短信API产品名称
 	private static final String domain = "dysmsapi.aliyuncs.com";	//短信API产品域名
 	
-	private static final String accessKeyId = "LTAIPhw7IAvFrJp5";
-	private static final String accessKeySecret = "6CTMPBzwheCePho3174qtckhntiPTj";
+	private static final String accessKeyId = "XXXXXX";				//阿里云的key
+	private static final String accessKeySecret = "XXXXXXX";		//阿里云的密钥
 	
 	public static SendSmsResponse sendSms(String telephone, String modelName, int randomIdentityCode) {
 		SendSmsResponse sendSmsResponse = null;
